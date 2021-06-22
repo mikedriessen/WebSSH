@@ -4,8 +4,8 @@ A simple web application to be used as an ssh client to connect to your ssh serv
 version base on huashengdun/webssh earlier simple code versions.
 
 ### Preview
-![Login](https://github.com/WalkerWang731/WebTerminal/raw/master/preview/login.png)
-![Terminal](https://github.com/WalkerWang731/WebTerminal/raw/master/preview/terminal.png)
+![Login](https://github.com/mikedriessen/WebSSH/blob/main/preview/login.png)
+![Terminal](https://github.com/mikedriessen/WebSSH/blob/main/preview/terminal.png)
 
 ### Install dependencies
 ```
