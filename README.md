@@ -1,4 +1,4 @@
-# WebTerminal
+# WebSSH
 A simple web application to be used as an ssh client to connect to your ssh servers. It is written in Python, base on Tornado and Paramiko.
 
 ### Preview
